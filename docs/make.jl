@@ -14,6 +14,12 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
+        "Manual" => Any[
+            "Random Matrices"=>"man/randMatrix.md",
+            "Circuit Utilities"=>"man/circuitUtils.md",
+            "Circuit Evolution"=>"man/circuitEvolve.md"
+        ],
+        "Public API" => "source.md",
     ],
 )
 
