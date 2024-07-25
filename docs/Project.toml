@@ -2,3 +2,4 @@
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 LiveServer = "16fef848-5104-11e9-1b77-fb7a48bbb589"
 QuantumCircuits = "542f4203-40d5-4497-9446-add4998b2a81"
+QuantumInformation = "3c0b384b-479c-5684-b2ef-9d7a46dd931e"
